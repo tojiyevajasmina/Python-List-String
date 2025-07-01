@@ -4,8 +4,8 @@
 **Masalan:**
 
 ```text
-Input: "Aliyev Vali G'ani o‘g‘li"  
-Output: "Vali G'ani o‘g‘li, Aliyev"
+Input: "Aliyev Vali G'aniyevich"  
+Output: "Vali G'aniyevich, Aliyev"
 ```
 
 ---
